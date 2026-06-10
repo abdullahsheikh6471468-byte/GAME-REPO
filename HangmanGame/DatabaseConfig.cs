@@ -19,7 +19,7 @@ namespace HangmanGame.Database
         public const int Port = 3306;
         public const string Database = "hangman_db";
         public const string UserId = "root";          // change if needed
-        public const string Password = "your_password"; // change to your MySQL root password
+        public const string Password = "A3078719144sh"; // change to your MySQL root password
 
         // ── Derived connection string ────────────────────────────────
         public static string ConnectionString =>
